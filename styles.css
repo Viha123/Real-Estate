@@ -81,8 +81,9 @@ nav ul li a {
 }
 .top {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   background-color: purple;
+  
 }
 .bottomcontent {
   display: flex;
@@ -100,6 +101,7 @@ nav ul li a {
 .bottomimages {
   width: 9vw;
   min-width: 100px;
+ 
   border: 5px solid #ffffff;
 }
 
@@ -161,3 +163,4 @@ nav {
     border: 3px solid #ffffff;
   }
 } */
+/* viha changes */
